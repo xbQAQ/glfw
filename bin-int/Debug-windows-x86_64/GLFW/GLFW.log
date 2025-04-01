@@ -1,6 +1,4 @@
-﻿cl : 命令行  warning D9002: 忽略未知选项“-std=c17”
-cl : 命令行  warning D9002: 忽略未知选项“-lgdi32”
-  context.c
+﻿  context.c
   egl_context.c
   init.c
   input.c
@@ -20,8 +18,5 @@ cl : 命令行  warning D9002: 忽略未知选项“-lgdi32”
   win32_thread.c
   win32_time.c
   win32_window.c
-  正在生成代码...
-  正在编译...
   window.c
-  正在生成代码...
   GLFW.vcxproj -> C:\Users\Metaborder\Desktop\1\Nazel\Nazel\ThirdParty\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.lib
